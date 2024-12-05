@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/P4hgK7b)](https://www.linkedin.com/in/varun-kumar-284b721b3/)
+
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
 <h3 align="center">I am a BE Computer Science graduate and a dedicated Full Stack Developer with expertise in React.js, Node.js, and MongoDB. I excel at building scalable, user-focused applications and solving complex challenges with innovative solutions. With strong communication, critical thinking, and a passion for continuous learning, I am committed to bringing technical expertise, creativity, and a proactive approach to drive innovation and deliver value to your organization.</h3>
 
